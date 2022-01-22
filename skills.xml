@@ -1,0 +1,36 @@
+	<?xml version="1.0" encoding="utf-8"?>
+	<ul type="circle">
+
+		    	<li>Basic_theory</li>
+
+		    	<li>client_server_architecture</li>
+
+    			<li type="disc">API_testing_JSON_XML</li>
+
+			<li>Logs</li>
+
+			<li>Postman_Fidler</li>
+
+			<li>VPN</li>
+
+			<li>DevTools</li>
+
+			<li type="square">Mobile_Testing</li>
+
+			<li>Charles</li>
+ 
+			<li>Terminal_Linux</li>
+    
+			<li>Charles</li>
+ 
+			<li type="disc">SQL</li>
+
+			<li>GIT</li>
+  
+			<li>Jmeter</li>
+ 
+			<li>Scrum</li>
+  
+			<li>Python</li>
+
+	</ul>
