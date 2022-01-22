@@ -1,10 +1,10 @@
-	<person>
-		<Full_name> 
-       <First_name>Павел</First_name>
-       <Last_name>Орехов</Last_name>
-       <Patronymic_name>Александрович</Patronymic_name>
-		<Age>40</Age>	
-		<Quantity_of_pets>1</Quantity_of_pets>
-		<Future_salary_wanted>10000 руб. </Future_salary_wanted>
-		</Full_name>
-	</person>[A[A[A[A[A[A[A[A[A[D[D[D[D[D[D[3~[3~[3~[3~[B[B[B[B[B[B[B[B[B[F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+<person>
+	<Full_name> 
+		<First_name>Павел</First_name>
+		<Last_name>Орехов</Last_name>
+		<Patronymic_name>Александрович</Patronymic_name>
+	</Full_name>	
+	<Age>40</Age>	
+	<Quantity_of_pets>1</Quantity_of_pets>
+	<Future_salary_wanted>10000 руб. </Future_salary_wanted>
+</person>
