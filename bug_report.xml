@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<bug_report>
+	    <ul type="circle">
+  		<li> Summary: Login: Error messages in the login form are displayed in English</li>
+	  	<li> Environment: All browsers / devices</li>
+		  <li> Severity: Major</li>
+		  <li> Steps_to_reproduce:
+			    <ol>
+				      <li> Open front end https:/www.test-obelink.be:8443/</li>
+				      <li> Follow_Inloggen_link</li>
+				      <li> Fill required fields with invalid data</li>
+				      <li> Click Inlogged button</li>
+				      <li> Pay attention to error messages</li>
+			    </ol>
+		  <li> Actual_result: Error messages in the login form are displayed in English</li>
+		  <li> Expected_result: Error messages in the login form are displayed in chosen language</li>
+		  <li> Attachment: http://prntscr.com/....</li>
+	    </ul>
+</bug_report>
